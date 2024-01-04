@@ -1,0 +1,3 @@
+0.0.0.0 polishparcels.com
+0.0.0.0 LokalizatorOrange.pl
+0.0.0.0 gg-challenger.com
